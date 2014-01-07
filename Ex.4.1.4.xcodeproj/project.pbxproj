@@ -21,6 +21,8 @@
 		00696171187BFD33008A4336 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00696153187BFD32008A4336 /* UIKit.framework */; };
 		00696179187BFD33008A4336 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00696177187BFD33008A4336 /* InfoPlist.strings */; };
 		0069617B187BFD33008A4336 /* Ex_4_1_4Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0069617A187BFD33008A4336 /* Ex_4_1_4Tests.m */; };
+		00696185187BFD72008A4336 /* car2.png in Resources */ = {isa = PBXBuildFile; fileRef = 00696184187BFD72008A4336 /* car2.png */; };
+		00696187187BFE4B008A4336 /* Golf Ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 00696186187BFE4B008A4336 /* Golf Ball.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		00696176187BFD33008A4336 /* Ex.4.1.4Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ex.4.1.4Tests-Info.plist"; sourceTree = "<group>"; };
 		00696178187BFD33008A4336 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0069617A187BFD33008A4336 /* Ex_4_1_4Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex_4_1_4Tests.m; sourceTree = "<group>"; };
+		00696184187BFD72008A4336 /* car2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car2.png; sourceTree = "<group>"; };
+		00696186187BFE4B008A4336 /* Golf Ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Golf Ball.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,8 @@
 		00696155187BFD32008A4336 /* Ex.4.1.4 */ = {
 			isa = PBXGroup;
 			children = (
+				00696186187BFE4B008A4336 /* Golf Ball.png */,
+				00696184187BFD72008A4336 /* car2.png */,
 				0069615E187BFD32008A4336 /* AppDelegate.h */,
 				0069615F187BFD32008A4336 /* AppDelegate.m */,
 				00696161187BFD32008A4336 /* Main.storyboard */,
@@ -231,6 +237,8 @@
 				00696168187BFD32008A4336 /* Images.xcassets in Resources */,
 				0069615A187BFD32008A4336 /* InfoPlist.strings in Resources */,
 				00696163187BFD32008A4336 /* Main.storyboard in Resources */,
+				00696185187BFD72008A4336 /* car2.png in Resources */,
+				00696187187BFE4B008A4336 /* Golf Ball.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
